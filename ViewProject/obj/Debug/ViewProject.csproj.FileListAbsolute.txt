@@ -1,0 +1,27 @@
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ViewProject\obj\Debug\ViewProject.csproj.AssemblyReference.cache
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ViewProject\obj\Debug\ViewProject.FormFornecedor.resources
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ViewProject\obj\Debug\ViewProject.Properties.Resources.resources
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ViewProject\obj\Debug\ViewProject.FormJanelaPrincipal.resources
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ViewProject\obj\Debug\ViewProject.csproj.GenerateResource.cache
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ViewProject\obj\Debug\ViewProject.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ViewProject\obj\Debug\ViewProject.FormNotaEntrada.resources
+C:\Users\levir\source\repos\Nova pasta\intensivao-de-python\SolucaoCapitulo07\ViewProject\obj\Debug\ViewProject.csproj.AssemblyReference.cache
+C:\Users\levir\source\repos\Nova pasta\intensivao-de-python\SolucaoCapitulo07\ViewProject\obj\Debug\ViewProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\levir\source\repos\Nova pasta\intensivao-de-python\SolucaoCapitulo07\ViewProject\obj\Debug\ViewProject.FormFornecedor.resources
+C:\Users\levir\source\repos\Nova pasta\intensivao-de-python\SolucaoCapitulo07\ViewProject\obj\Debug\ViewProject.FormJanelaPrincipal.resources
+C:\Users\levir\source\repos\Nova pasta\intensivao-de-python\SolucaoCapitulo07\ViewProject\obj\Debug\ViewProject.FormNotaEntrada.resources
+C:\Users\levir\source\repos\Nova pasta\intensivao-de-python\SolucaoCapitulo07\ViewProject\obj\Debug\ViewProject.Properties.Resources.resources
+C:\Users\levir\source\repos\Nova pasta\intensivao-de-python\SolucaoCapitulo07\ViewProject\obj\Debug\ViewProject.csproj.GenerateResource.cache
+C:\Users\levir\source\repos\Nova pasta\intensivao-de-python\SolucaoCapitulo07\ViewProject\obj\Debug\ViewProject.csproj.CoreCompileInputs.cache
+C:\Users\levir\source\repos\Nova pasta\intensivao-de-python\SolucaoCapitulo07\ViewProject\bin\Debug\ViewProject.exe.config
+C:\Users\levir\source\repos\Nova pasta\intensivao-de-python\SolucaoCapitulo07\ViewProject\bin\Debug\ViewProject.exe
+C:\Users\levir\source\repos\Nova pasta\intensivao-de-python\SolucaoCapitulo07\ViewProject\bin\Debug\ViewProject.pdb
+C:\Users\levir\source\repos\Nova pasta\intensivao-de-python\SolucaoCapitulo07\ViewProject\bin\Debug\ControllerProject.dll
+C:\Users\levir\source\repos\Nova pasta\intensivao-de-python\SolucaoCapitulo07\ViewProject\bin\Debug\ModelProject.dll
+C:\Users\levir\source\repos\Nova pasta\intensivao-de-python\SolucaoCapitulo07\ViewProject\bin\Debug\PersistenceProject.dll
+C:\Users\levir\source\repos\Nova pasta\intensivao-de-python\SolucaoCapitulo07\ViewProject\bin\Debug\ControllerProject.pdb
+C:\Users\levir\source\repos\Nova pasta\intensivao-de-python\SolucaoCapitulo07\ViewProject\bin\Debug\ModelProject.pdb
+C:\Users\levir\source\repos\Nova pasta\intensivao-de-python\SolucaoCapitulo07\ViewProject\bin\Debug\PersistenceProject.pdb
+C:\Users\levir\source\repos\Nova pasta\intensivao-de-python\SolucaoCapitulo07\ViewProject\obj\Debug\ViewProject.csproj.CopyComplete
+C:\Users\levir\source\repos\Nova pasta\intensivao-de-python\SolucaoCapitulo07\ViewProject\obj\Debug\ViewProject.exe
+C:\Users\levir\source\repos\Nova pasta\intensivao-de-python\SolucaoCapitulo07\ViewProject\obj\Debug\ViewProject.pdb

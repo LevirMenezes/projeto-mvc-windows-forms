@@ -1,0 +1,11 @@
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ModelProject\bin\Debug\ModelProject.dll
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ModelProject\bin\Debug\ModelProject.pdb
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ModelProject\obj\Debug\ModelProject.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ModelProject\obj\Debug\ModelProject.dll
+C:\Users\Aluno\Source\Repos\SolucaoCapitulo07\ModelProject\obj\Debug\ModelProject.pdb
+C:\Users\levir\source\repos\Nova pasta\intensivao-de-python\SolucaoCapitulo07\ModelProject\bin\Debug\ModelProject.dll
+C:\Users\levir\source\repos\Nova pasta\intensivao-de-python\SolucaoCapitulo07\ModelProject\bin\Debug\ModelProject.pdb
+C:\Users\levir\source\repos\Nova pasta\intensivao-de-python\SolucaoCapitulo07\ModelProject\obj\Debug\ModelProject.csproj.AssemblyReference.cache
+C:\Users\levir\source\repos\Nova pasta\intensivao-de-python\SolucaoCapitulo07\ModelProject\obj\Debug\ModelProject.csproj.CoreCompileInputs.cache
+C:\Users\levir\source\repos\Nova pasta\intensivao-de-python\SolucaoCapitulo07\ModelProject\obj\Debug\ModelProject.dll
+C:\Users\levir\source\repos\Nova pasta\intensivao-de-python\SolucaoCapitulo07\ModelProject\obj\Debug\ModelProject.pdb
